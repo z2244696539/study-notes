@@ -1,5 +1,5 @@
 ---
-
+o
 ---
 
 # Spring Cloud
@@ -1041,7 +1041,7 @@ spring:
 - 参数类型 可以自己选择推荐string
 - 参数值 设置限流的搜索的内容 比如所猫 限流阈值1 那么搜索的内容第一个参数为猫且每秒的访问量不能超过1
 
-## @SentinelResource
+### @SentinelResource
 
 ```
  	/**
